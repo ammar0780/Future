@@ -1,4 +1,4 @@
-FROM telethonArab/TelethonAr:alpine
+FROM ammar0780/Future:alpine
 
 #clonning repo 
 RUN git clone https://github.com/ammar0780/Future.git /root/userbot
